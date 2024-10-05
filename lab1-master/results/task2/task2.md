@@ -4,7 +4,7 @@
 
 El error mostrado es:
 
-![](/home/ubuntu/Desktop/PrácticasArco/higherisa.png)
+![](https://github.com/alvarolm1/lab1-b1-alvaro-lopez-megia/blob/main/lab1-master/results/task2/WARNING.png)
 
 Lo que causa este error es el compilador que hemos usado (g++):
 
